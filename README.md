@@ -1,1 +1,1 @@
-# Pyschopy face experiment
+# Psychopy face experiment
