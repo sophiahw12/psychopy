@@ -5,7 +5,7 @@ from controller import Controller
 def main():
     model = Model()
     view = View(model)
-    controller = Controller(model=model, dir='psavc', time=2, num=30)
+    controller = Controller(model=model, dir='img_folder', time=2, num=30)
     controller.start()
 
 if __name__ == "__main__":
